@@ -26,8 +26,9 @@ Before you begin, ensure you have met the following requirements:
 
 To install the project, follow these steps:
 
-```bash
+
 git clone https://github.com/yourusername/yourprojectname.git
+```bash
 cd yourprojectname
 flutter pub get
 
@@ -35,3 +36,4 @@ Usage
 After installing, you can run the project by executing:
 flutter run
 This command will start the Flutter application on your connected device or emulator.
+
